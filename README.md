@@ -13,7 +13,6 @@ Download Firefox version 52 for your OS here: https://ftp.mozilla.org/pub/firefo
   <img width="75%" src="./readme.images/01.png">
 </p>
 
-## Deactivate Maintenance Service
 Select Custom during the installation and disable the “Install Maintenance Service” Box.
 <p align="center">
   <img width="75%" src="./readme.images/02.png">
