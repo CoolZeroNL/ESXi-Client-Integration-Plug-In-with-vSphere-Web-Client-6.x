@@ -47,30 +47,35 @@ Type in `plugin.load_flash_only` and select `false`.
   <img width="75%" src="./readme.images/07.png">
 </p>
 
-Then restart Firefox.
-
-# Install Flash
-Make sure to install Flash.
-
-# Install Client Integration Plugin
-Visit your VMware vCenter Web Client and install the Client integration plugin (best is to start Firefox using an administrative account).
 <p align="center">
   <img width="75%" src="./readme.images/08.png">
 </p>
 
+Then restart Firefox.
+
+# Install Flash
+Make sure to install Flash.
 <p align="center">
   <img width="75%" src="./readme.images/09.png">
+</p>
+
+# Install Client Integration Plugin
+Visit your VMware vCenter Web Client and install the Client integration plugin (best is to start Firefox using an administrative account).
+<p align="center">
+  <img width="75%" src="./readme.images/10.png">
+</p>
+
+<p align="center">
+  <img width="75%" src="./readme.images/11.png">
 </p>
 
 When everything has been installed successful, you can log into your VMware vSphere Web client and use Client Integration plugin functions like Deploy OVF.
 
 <p align="center">
-  <img width="75%" src="./readme.images/10.png">
+  <img width="75%" src="./readme.images/12.png">
 </p>
 
+
 Just make sure to allow the Plugin to do its job, by clicking allow for the https protocol access.
-<p align="center">
-  <img width="75%" src="./readme.images/11.png">
-</p>
 
 That’s it and you should have all up and running.
