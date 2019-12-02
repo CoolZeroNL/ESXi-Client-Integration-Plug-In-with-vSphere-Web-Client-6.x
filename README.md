@@ -38,19 +38,19 @@ To change the NPAPI settings in Firefox and enable Flash, Silverlight plugins, j
 </p>
 
 Accept the risk and continue to the settings page. Then right click into the list and select New-Boolean
-Change NPAPI settings in Firefox
-Type in `plugin.load_flash_only` and select `false`.
 <p align="center">
   <img width="75%" src="./readme.images/06.png">
+</p>
+Type in `plugin.load_flash_only` and select `false`.
+
+<p align="center">
+  <img width="75%" src="./readme.images/07.png">
 </p>
 
 Then restart Firefox.
 
 # Install Flash
 Make sure to install Flash.
-<p align="center">
-  <img width="75%" src="./readme.images/07.png">
-</p>
 
 # Install Client Integration Plugin
 Visit your VMware vCenter Web Client and install the Client integration plugin (best is to start Firefox using an administrative account).
