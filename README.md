@@ -1,4 +1,5 @@
 # ESXi-Client-Integration-Plug-In-with-vSphere-Web-Client-6.x
+<!-- https://www.opvizor.com/get-the-client-integration-plug-in-running-in-vsphere-web-client-6-x -->
 Get the Client Integration Plug-In running in vSphere Web Client 6.x
 
 # Install Firefox
